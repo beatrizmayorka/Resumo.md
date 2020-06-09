@@ -18,7 +18,7 @@
 
 <img src="https://miro.medium.com/max/1300/1*ejbj1auh_Nxg_kmuuSGUSA.jpeg" alt="Lista Encadeada" />
 
-<p> A <strong>lista duplamente encadeada</strong>
+<p> Na <strong>lista duplamente encadeada</strong> cada elemento possui um ponteiro para o elemento anterior e para o próximo elemento, o que proporciona o manuseio da lista por ambos os lados. </p>
 
 <p>
       <strong>Exemplo</strong>:
