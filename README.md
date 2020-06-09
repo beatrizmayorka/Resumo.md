@@ -18,6 +18,15 @@
 
 <img src="https://miro.medium.com/max/1300/1*ejbj1auh_Nxg_kmuuSGUSA.jpeg" alt="Lista Encadeada" />
 
+<p> A <strong>lista duplamente encadeada</strong>
+
+<p>
+      <strong>Exemplo</strong>:
+</p>
+
+<img src="https://sites.google.com/site/proffdesiqueiraed/_/rsrc/1472856774073/aulas/aula-6---listas-duplamente-encadeadas/Captura%20de%20tela%20de%202015-08-11%2015%3A00%3A14.png" alt="Lista Duplamente Encadeada" />
+
+
 <p> Com a <strong>lista circular duplamente encadeada</strong> é possível pecorrer a lista em ambos os lados. Assim, o último elemento da lista tem como próximo o primeio elemento, que terá o último elemento como anterior.
 <p>
       <strong>Exemplo</strong>:
