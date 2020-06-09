@@ -19,14 +19,12 @@
 
 <p>A pilha é uma forma de organizar um conjunto de elementos através de uma determinada ordem, ou seja, o último elemento do conjunto será sempre o primeiro a sair (a sigla LIFO - Last In, First Out - descreve essa estratégia).</p>
 <p>O manuseio da pilha é feito através de cinco operações, dentre elas:</p>
-<li><strong>Push - empilhar</li>
-<li><strong>Pop - desempilhar</li>
-<li><strong>Top</strong> - mostra qual elemento está no topo</li>
-<li><strong>isEmpty</strong> - verifica se está vazia</li>
-<li><strong>isFull</strong> - verifica se está cheia</li>
-
+      <li><strong>Push - empilhar</li>
+      <li><strong>Pop - desempilhar</li>
+      <li><strong>Top</strong> - mostra qual elemento está no topo</li>
+      <li><strong>isEmpty</strong> - verifica se está vazia</li>
+      <li><strong>isFull</strong> - verifica se está cheia</li>
 <p><strong>* isFull</strong> é utilizado somente com a estratégia correta.</p>
-
 <p>Existem duas estratégias usadas para implementar uma pilha, são elas: alocação dinâmica e alocação estática.</p>
-<li><strong>Alocação estática</strong>: utilizará um vetor com tamanho fixo e limitado. Dessa forma, é será possível usufruir da operação * isFull para verificar se o vetor está completo.</li> 
-<li><strong>Alocação dinâmica</strong>: possibilita fazer o empilhamento de elementos enquanto houver memória.</li>
+      <li><strong>Alocação estática</strong>: utilizará um vetor com tamanho fixo e limitado. Dessa forma, é será possível usufruir da operação * isFull para verificar se o vetor está completo.</li> 
+      <li><strong>Alocação dinâmica</strong>: possibilita fazer o empilhamento de elementos enquanto houver memória.</li>
