@@ -13,6 +13,10 @@
 <p> Estrutura que armazena um conjunto de elementos em sequência. Essa estrutura contém nós interligados por ponteiros, onde o ponteiro apontará para o próximo nó até que esse ponteiro seja Null, o que representará o fim da lista. </p>
 <p> A <strong>lista encadeada</strong> está associada a alocação dinâmica de memória. Então, para cada novo elemento na estrutura é alocado um espaço na memória para poder armazená-lo. Sendo assim, o espaço total de memória consumido pela estrutura será equivalente ao número de elementos armazenados nessa memória. Nessa lista, o ponteiro aponta para o primeiro elemento e para percorrer os próximos é preciso seguir o encadeamento. Quando o último elemento da lista retornar Null, significará que não existe um próximo elemento. </p>
 <p> Com a <strong>lista circular duplamente encadeada</strong> é possível pecorrer a lista em ambos os lados. Assim, o último elemento da lista tem como próximo o primeio elemento, que terá o último elemento como anterior.
+<p>
+      <strong>Exemplo</strong>:
+</p>
+
 <img src="http://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?cache=&w=331&h=142&tok=c72cb0&media=so:fila-circular.png" alt="Lista circular duplamente encadeada" />
 
 
