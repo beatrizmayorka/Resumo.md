@@ -22,7 +22,9 @@
       <li><strong>isEmpty</strong> - verifica se está vazia</li>
       <li><strong>isFull</strong> - verifica se está cheia</li>
 
-<p> <strong>**isFull</strong> é utilizado somente com a estratégia correta.</p>
+<p> 
+      <strong>**isFull</strong> é utilizado somente com a estratégia correta. 
+</p>
 
 <p> Existem duas estratégias usadas para implementar uma pilha, são elas: alocação dinâmica e alocação estática. </p>
       <li><strong>Alocação estática</strong>: utilizará um vetor com tamanho fixo e limitado. Dessa forma, é será possível usufruir da operação * isFull para verificar se o vetor está completo.</li> 
