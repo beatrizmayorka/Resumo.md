@@ -12,6 +12,10 @@
 
 <p> Estrutura que armazena um conjunto de elementos em sequência. Essa estrutura contém nós interligados por ponteiros, onde o ponteiro apontará para o próximo nó até que esse ponteiro seja Null, o que representará o fim da lista. A lista encadeada está associada a alocação dinâmica de memória. Então, para cada novo elemento na estrutura é alocado um espaço na memória para poder armazená-lo. Sendo assim, o espaço total de memória consumido pela estrutura será equivalente ao número de elementos armazenados nessa memória. </p>  
 
+<p><p> 
+      <strong>**Vetor</strong> é uma lista, pois possui elementos do mesmo tipo que estão fisicamente na memória um ao lado do outro.
+</p></p>
+
 ### Pilhas
 
 <p> A pilha é uma forma de organizar um conjunto de elementos através de uma determinada ordem, ou seja, o último elemento do conjunto será sempre o primeiro a sair (a sigla LIFO - Last In, First Out - descreve essa estratégia). </p>
