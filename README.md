@@ -16,8 +16,8 @@
 
 <p> A pilha é uma forma de organizar um conjunto de elementos através de uma determinada ordem, ou seja, o último elemento do conjunto será sempre o primeiro a sair (a sigla LIFO - Last In, First Out - descreve essa estratégia). </p>
 <p> O manuseio da pilha é feito através de cinco operações, dentre elas: </p>
-      <li><strong>Push - empilhar</li>
-      <li><strong>Pop - desempilhar</li>
+      <li><strong>Push</strong> - empilhar</li>
+      <li><strong>Pop</strong> - desempilhar</li>
       <li><strong>Top</strong> - mostra qual elemento está no topo</li>
       <li><strong>isEmpty</strong> - verifica se está vazia</li>
       <li><strong>isFull</strong> - verifica se está cheia</li>
